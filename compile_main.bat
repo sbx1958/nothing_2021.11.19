@@ -1,2 +1,2 @@
-csc.exe /out:bin\app.exe src\main.cs
+csc.exe @.\hello.rsp
 pause

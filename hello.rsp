@@ -1,0 +1,1 @@
+/out:.\bin\app.exe .\src\main.cs .\src\sort.cs
